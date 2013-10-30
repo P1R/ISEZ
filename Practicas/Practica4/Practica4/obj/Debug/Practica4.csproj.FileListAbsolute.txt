@@ -1,0 +1,8 @@
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica4\Practica4\bin\Debug\Practica4.exe.config
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica4\Practica4\bin\Debug\Practica4.exe
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica4\Practica4\bin\Debug\Practica4.pdb
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica4\Practica4\obj\Debug\Practica4.Form1.resources
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica4\Practica4\obj\Debug\Practica4.Properties.Resources.resources
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica4\Practica4\obj\Debug\Practica4.csproj.GenerateResource.Cache
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica4\Practica4\obj\Debug\Practica4.exe
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica4\Practica4\obj\Debug\Practica4.pdb

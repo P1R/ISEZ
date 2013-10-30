@@ -1,0 +1,9 @@
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica23\Practica23\bin\Debug\Practica23.exe.config
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica23\Practica23\obj\Debug\Practica23.csprojResolveAssemblyReference.cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica23\Practica23\obj\Debug\Practica23.Form1.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica23\Practica23\obj\Debug\Practica23.Properties.Resources.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica23\Practica23\obj\Debug\Practica23.csproj.GenerateResource.Cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica23\Practica23\bin\Debug\Practica23.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica23\Practica23\bin\Debug\Practica23.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica23\Practica23\obj\Debug\Practica23.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica23\Practica23\obj\Debug\Practica23.pdb

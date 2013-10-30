@@ -1,0 +1,10 @@
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\MiMat\MiMat\bin\Debug\MiMat.dll
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\MiMat\MiMat\bin\Debug\MiMat.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\MiMat\MiMat\obj\Debug\MiMat.csprojResolveAssemblyReference.cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\MiMat\MiMat\obj\Debug\MiMat.dll
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\MiMat\MiMat\obj\Debug\MiMat.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica35MiMat\MiMat\bin\Debug\MiMat.dll
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica35MiMat\MiMat\bin\Debug\MiMat.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica35MiMat\MiMat\obj\Debug\MiMat.csprojResolveAssemblyReference.cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica35MiMat\MiMat\obj\Debug\MiMat.dll
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica35MiMat\MiMat\obj\Debug\MiMat.pdb

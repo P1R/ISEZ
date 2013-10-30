@@ -1,0 +1,9 @@
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica26\Practica26\bin\Debug\Practica26.exe.config
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica26\Practica26\obj\Debug\Practica26.csprojResolveAssemblyReference.cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica26\Practica26\obj\Debug\Practica26.Graficadora.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica26\Practica26\obj\Debug\Practica26.Properties.Resources.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica26\Practica26\obj\Debug\Practica26.csproj.GenerateResource.Cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica26\Practica26\bin\Debug\Practica26.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica26\Practica26\bin\Debug\Practica26.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica26\Practica26\obj\Debug\Practica26.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica26\Practica26\obj\Debug\Practica26.pdb

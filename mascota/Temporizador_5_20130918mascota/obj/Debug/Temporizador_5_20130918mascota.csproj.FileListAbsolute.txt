@@ -1,0 +1,9 @@
+C:\Users\joral2811\Documents\GitHub\ISEZ\mascota\Temporizador_5_20130918mascota\bin\Debug\Temporizador_5_20130918mascota.exe.config
+C:\Users\joral2811\Documents\GitHub\ISEZ\mascota\Temporizador_5_20130918mascota\bin\Debug\Temporizador_5_20130918mascota.exe
+C:\Users\joral2811\Documents\GitHub\ISEZ\mascota\Temporizador_5_20130918mascota\bin\Debug\Temporizador_5_20130918mascota.pdb
+C:\Users\joral2811\Documents\GitHub\ISEZ\mascota\Temporizador_5_20130918mascota\obj\Debug\Temporizador_5_20130918mascota.csprojResolveAssemblyReference.cache
+C:\Users\joral2811\Documents\GitHub\ISEZ\mascota\Temporizador_5_20130918mascota\obj\Debug\Temporizador_5_20130918mascota.Form1.resources
+C:\Users\joral2811\Documents\GitHub\ISEZ\mascota\Temporizador_5_20130918mascota\obj\Debug\Temporizador_5_20130918mascota.Properties.Resources.resources
+C:\Users\joral2811\Documents\GitHub\ISEZ\mascota\Temporizador_5_20130918mascota\obj\Debug\Temporizador_5_20130918mascota.csproj.GenerateResource.Cache
+C:\Users\joral2811\Documents\GitHub\ISEZ\mascota\Temporizador_5_20130918mascota\obj\Debug\Temporizador_5_20130918mascota.exe
+C:\Users\joral2811\Documents\GitHub\ISEZ\mascota\Temporizador_5_20130918mascota\obj\Debug\Temporizador_5_20130918mascota.pdb

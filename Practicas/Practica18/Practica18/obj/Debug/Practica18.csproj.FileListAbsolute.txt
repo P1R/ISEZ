@@ -1,0 +1,9 @@
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica18\Practica18\bin\Debug\Practica18.exe.config
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica18\Practica18\bin\Debug\Practica18.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica18\Practica18\bin\Debug\Practica18.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica18\Practica18\obj\Debug\Practica18.csprojResolveAssemblyReference.cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica18\Practica18\obj\Debug\Practica18.repetidor.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica18\Practica18\obj\Debug\Practica18.Properties.Resources.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica18\Practica18\obj\Debug\Practica18.csproj.GenerateResource.Cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica18\Practica18\obj\Debug\Practica18.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica18\Practica18\obj\Debug\Practica18.pdb

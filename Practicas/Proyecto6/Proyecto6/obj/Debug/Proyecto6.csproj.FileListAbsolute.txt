@@ -1,0 +1,9 @@
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Proyecto6\Proyecto6\bin\Debug\Proyecto6.exe.config
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Proyecto6\Proyecto6\bin\Debug\Proyecto6.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Proyecto6\Proyecto6\bin\Debug\Proyecto6.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Proyecto6\Proyecto6\obj\Debug\Proyecto6.csprojResolveAssemblyReference.cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Proyecto6\Proyecto6\obj\Debug\Proyecto6.graficos.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Proyecto6\Proyecto6\obj\Debug\Proyecto6.Properties.Resources.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Proyecto6\Proyecto6\obj\Debug\Proyecto6.csproj.GenerateResource.Cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Proyecto6\Proyecto6\obj\Debug\Proyecto6.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Proyecto6\Proyecto6\obj\Debug\Proyecto6.pdb

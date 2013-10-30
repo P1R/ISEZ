@@ -1,0 +1,9 @@
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica25\Practica25\bin\Debug\Practica25.exe.config
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica25\Practica25\obj\Debug\Practica25.csprojResolveAssemblyReference.cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica25\Practica25\obj\Debug\Practica25.Trazo.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica25\Practica25\obj\Debug\Practica25.Properties.Resources.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica25\Practica25\obj\Debug\Practica25.csproj.GenerateResource.Cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica25\Practica25\bin\Debug\Practica25.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica25\Practica25\bin\Debug\Practica25.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica25\Practica25\obj\Debug\Practica25.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica25\Practica25\obj\Debug\Practica25.pdb

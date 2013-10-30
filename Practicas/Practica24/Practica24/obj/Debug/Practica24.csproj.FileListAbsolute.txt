@@ -1,0 +1,9 @@
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica24\Practica24\bin\Debug\Practica24.exe.config
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica24\Practica24\bin\Debug\Practica24.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica24\Practica24\bin\Debug\Practica24.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica24\Practica24\obj\Debug\Practica24.csprojResolveAssemblyReference.cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica24\Practica24\obj\Debug\Practica24.Graficos.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica24\Practica24\obj\Debug\Practica24.Properties.Resources.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica24\Practica24\obj\Debug\Practica24.csproj.GenerateResource.Cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica24\Practica24\obj\Debug\Practica24.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica24\Practica24\obj\Debug\Practica24.pdb

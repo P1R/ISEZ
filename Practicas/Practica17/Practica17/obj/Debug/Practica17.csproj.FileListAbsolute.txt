@@ -1,0 +1,9 @@
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica17\bin\Debug\Practica17.exe.config
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica17\bin\Debug\Practica17.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica17\bin\Debug\Practica17.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica17\obj\Debug\Practica17.csprojResolveAssemblyReference.cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica17\obj\Debug\Practica17.LTiemer.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica17\obj\Debug\Practica17.Properties.Resources.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica17\obj\Debug\Practica17.csproj.GenerateResource.Cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica17\obj\Debug\Practica17.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica17\obj\Debug\Practica17.pdb

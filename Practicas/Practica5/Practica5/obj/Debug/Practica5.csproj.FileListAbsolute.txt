@@ -1,0 +1,10 @@
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica5\Practica5\bin\Debug\Practica5.exe.config
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica5\Practica5\obj\Debug\Practica5.csprojResolveAssemblyReference.cache
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica5\Practica5\obj\Debug\Practica5.Form1.resources
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica5\Practica5\obj\Debug\Practica5.Form2.resources
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica5\Practica5\obj\Debug\Practica5.Properties.Resources.resources
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica5\Practica5\obj\Debug\Practica5.csproj.GenerateResource.Cache
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica5\Practica5\bin\Debug\Practica5.exe
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica5\Practica5\bin\Debug\Practica5.pdb
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica5\Practica5\obj\Debug\Practica5.exe
+C:\Users\JorgeAlejandro\Desktop\Ingeniaria del Software\Practicas\Practica5\Practica5\obj\Debug\Practica5.pdb

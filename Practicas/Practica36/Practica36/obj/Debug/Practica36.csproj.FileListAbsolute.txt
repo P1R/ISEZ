@@ -1,0 +1,9 @@
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica36\Practica36\bin\Debug\Practica36.exe.config
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica36\Practica36\bin\Debug\Practica36.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica36\Practica36\bin\Debug\Practica36.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica36\Practica36\obj\Debug\Practica36.csprojResolveAssemblyReference.cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica36\Practica36\obj\Debug\Practica36.Properties.Resources.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica36\Practica36\obj\Debug\Practica36.csproj.GenerateResource.Cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica36\Practica36\obj\Debug\Practica36.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica36\Practica36\obj\Debug\Practica36.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica36\Practica36\obj\Debug\Practica36.OperacionesMatrices.resources

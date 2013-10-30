@@ -1,0 +1,9 @@
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica20\Practica20\bin\Debug\Practica20.exe.config
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica20\Practica20\bin\Debug\Practica20.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica20\Practica20\bin\Debug\Practica20.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica20\Practica20\obj\Debug\Practica20.csprojResolveAssemblyReference.cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica20\Practica20\obj\Debug\Practica20.Form1.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica20\Practica20\obj\Debug\Practica20.Properties.Resources.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica20\Practica20\obj\Debug\Practica20.csproj.GenerateResource.Cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica20\Practica20\obj\Debug\Practica20.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica20\Practica20\obj\Debug\Practica20.pdb

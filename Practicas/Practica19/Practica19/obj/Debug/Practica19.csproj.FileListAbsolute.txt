@@ -1,0 +1,9 @@
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica19\Practica19\bin\Debug\Practica19.exe.config
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica19\Practica19\bin\Debug\Practica19.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica19\Practica19\bin\Debug\Practica19.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica19\Practica19\obj\Debug\Practica19.pelota.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica19\Practica19\obj\Debug\Practica19.Properties.Resources.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica19\Practica19\obj\Debug\Practica19.csproj.GenerateResource.Cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica19\Practica19\obj\Debug\Practica19.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica19\Practica19\obj\Debug\Practica19.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica19\Practica19\obj\Debug\Practica19.csprojResolveAssemblyReference.cache

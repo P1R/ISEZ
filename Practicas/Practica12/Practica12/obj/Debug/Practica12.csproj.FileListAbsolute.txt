@@ -1,0 +1,8 @@
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica12\Practica12\bin\Debug\Practica12.exe.config
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica12\Practica12\bin\Debug\Practica12.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica12\Practica12\bin\Debug\Practica12.pdb
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica12\Practica12\obj\Debug\Practica12.Calculadora.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica12\Practica12\obj\Debug\Practica12.Properties.Resources.resources
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica12\Practica12\obj\Debug\Practica12.csproj.GenerateResource.Cache
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica12\Practica12\obj\Debug\Practica12.exe
+C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica12\Practica12\obj\Debug\Practica12.pdb
