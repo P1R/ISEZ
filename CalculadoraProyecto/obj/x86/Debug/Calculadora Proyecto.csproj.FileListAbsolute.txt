@@ -1,0 +1,11 @@
+C:\Users\Alex\SkyDrive\Todo de Ing. de Software\Prácticas\Calculadora Proyecto\bin\Debug\Calculadora_Proyecto.exe
+C:\Users\Alex\SkyDrive\Todo de Ing. de Software\Prácticas\Calculadora Proyecto\bin\Debug\Calculadora_Proyecto.pdb
+C:\Users\Alex\SkyDrive\Todo de Ing. de Software\Prácticas\Calculadora Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\SkyDrive\Todo de Ing. de Software\Prácticas\Calculadora Proyecto\obj\x86\Debug\Calculadora_Proyecto.Form1.resources
+C:\Users\Alex\SkyDrive\Todo de Ing. de Software\Prácticas\Calculadora Proyecto\obj\x86\Debug\Calculadora_Proyecto.Properties.Resources.resources
+C:\Users\Alex\SkyDrive\Todo de Ing. de Software\Prácticas\Calculadora Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\SkyDrive\Todo de Ing. de Software\Prácticas\Calculadora Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\SkyDrive\Todo de Ing. de Software\Prácticas\Calculadora Proyecto\obj\x86\Debug\Calculadora_Proyecto.exe
+C:\Users\Alex\SkyDrive\Todo de Ing. de Software\Prácticas\Calculadora Proyecto\obj\x86\Debug\Calculadora_Proyecto.pdb
+C:\Users\Alex\SkyDrive\Todo de Ing. de Software\Prácticas\Calculadora Proyecto\obj\x86\Debug\Interop.MTPARSERCOMLib.dll
+C:\Users\Alex\SkyDrive\Todo de Ing. de Software\Prácticas\Calculadora Proyecto\obj\x86\Debug\Calculadora Proyecto.csproj.ResolveComReference.cache
