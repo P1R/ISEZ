@@ -1,0 +1,8 @@
+c:\users\piro\documents\visual studio 2012\Projects\25-9-2013.2\25-9-2013.2\bin\Debug\25-9-2013.2.exe.config
+c:\users\piro\documents\visual studio 2012\Projects\25-9-2013.2\25-9-2013.2\obj\Debug\_25_9_2013._2.Form1.resources
+c:\users\piro\documents\visual studio 2012\Projects\25-9-2013.2\25-9-2013.2\obj\Debug\_25_9_2013._2.Properties.Resources.resources
+c:\users\piro\documents\visual studio 2012\Projects\25-9-2013.2\25-9-2013.2\obj\Debug\25-9-2013.2.csproj.GenerateResource.Cache
+c:\users\piro\documents\visual studio 2012\Projects\25-9-2013.2\25-9-2013.2\bin\Debug\25-9-2013.2.exe
+c:\users\piro\documents\visual studio 2012\Projects\25-9-2013.2\25-9-2013.2\bin\Debug\25-9-2013.2.pdb
+c:\users\piro\documents\visual studio 2012\Projects\25-9-2013.2\25-9-2013.2\obj\Debug\25-9-2013.2.exe
+c:\users\piro\documents\visual studio 2012\Projects\25-9-2013.2\25-9-2013.2\obj\Debug\25-9-2013.2.pdb

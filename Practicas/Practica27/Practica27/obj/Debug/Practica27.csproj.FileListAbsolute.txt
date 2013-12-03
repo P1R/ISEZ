@@ -7,3 +7,6 @@ C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica27\Practica
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica27\Practica27\obj\Debug\Practica27.exe
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica27\Practica27\obj\Debug\Practica27.pdb
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica27\Practica27\obj\Debug\Practica27.csprojResolveAssemblyReference.cache
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica27\Practica27\bin\Debug\Practica27.exe.config
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica27\Practica27\obj\Debug\Practica27.exe
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica27\Practica27\obj\Debug\Practica27.pdb

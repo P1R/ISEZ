@@ -16,3 +16,6 @@ C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica1\Practica1
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica1\Practica1\obj\Debug\Practica1.Información.resources
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.Cache
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica1\Practica1\obj\Debug\Practica1.pdb

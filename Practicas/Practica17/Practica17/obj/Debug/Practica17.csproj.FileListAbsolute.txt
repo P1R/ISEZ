@@ -7,3 +7,6 @@ C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica17\obj\Debug\Practica17.csproj.GenerateResource.Cache
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica17\obj\Debug\Practica17.exe
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica17\Practica17\obj\Debug\Practica17.pdb
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica17\Practica17\bin\Debug\Practica17.exe.config
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica17\Practica17\obj\Debug\Practica17.exe
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica17\Practica17\obj\Debug\Practica17.pdb

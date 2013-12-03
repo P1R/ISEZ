@@ -1,0 +1,5 @@
+C:\Users\piro\Documents\GitHub\ISEZ\Examen II\bin\Debug\Q.exe
+C:\Users\piro\Documents\GitHub\ISEZ\Examen II\bin\Debug\Q.pdb
+C:\Users\piro\Documents\GitHub\ISEZ\Examen II\obj\x86\Debug\Q.csprojResolveAssemblyReference.cache
+C:\Users\piro\Documents\GitHub\ISEZ\Examen II\obj\x86\Debug\Q.exe
+C:\Users\piro\Documents\GitHub\ISEZ\Examen II\obj\x86\Debug\Q.pdb

@@ -1,0 +1,9 @@
+C:\Users\piro\Documents\GitHub\ISEZ\Examen I\Examen I\bin\Debug\Examen I.exe.config
+C:\Users\piro\Documents\GitHub\ISEZ\Examen I\Examen I\bin\Debug\Examen I.exe
+C:\Users\piro\Documents\GitHub\ISEZ\Examen I\Examen I\bin\Debug\Examen I.pdb
+C:\Users\piro\Documents\GitHub\ISEZ\Examen I\Examen I\obj\Debug\Examen I.csprojResolveAssemblyReference.cache
+C:\Users\piro\Documents\GitHub\ISEZ\Examen I\Examen I\obj\Debug\Examen_I.Form1.resources
+C:\Users\piro\Documents\GitHub\ISEZ\Examen I\Examen I\obj\Debug\Examen_I.Properties.Resources.resources
+C:\Users\piro\Documents\GitHub\ISEZ\Examen I\Examen I\obj\Debug\Examen I.csproj.GenerateResource.Cache
+C:\Users\piro\Documents\GitHub\ISEZ\Examen I\Examen I\obj\Debug\Examen I.exe
+C:\Users\piro\Documents\GitHub\ISEZ\Examen I\Examen I\obj\Debug\Examen I.pdb

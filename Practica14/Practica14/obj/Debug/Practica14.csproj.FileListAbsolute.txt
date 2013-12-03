@@ -1,0 +1,9 @@
+c:\users\piro\documents\visual studio 2012\Projects\Practica14\Practica14\bin\Debug\Practica14.exe.config
+c:\users\piro\documents\visual studio 2012\Projects\Practica14\Practica14\obj\Debug\Practica14.csprojResolveAssemblyReference.cache
+c:\users\piro\documents\visual studio 2012\Projects\Practica14\Practica14\obj\Debug\Practica14.Form1.resources
+c:\users\piro\documents\visual studio 2012\Projects\Practica14\Practica14\obj\Debug\Practica14.Properties.Resources.resources
+c:\users\piro\documents\visual studio 2012\Projects\Practica14\Practica14\obj\Debug\Practica14.csproj.GenerateResource.Cache
+c:\users\piro\documents\visual studio 2012\Projects\Practica14\Practica14\bin\Debug\Practica14.exe
+c:\users\piro\documents\visual studio 2012\Projects\Practica14\Practica14\bin\Debug\Practica14.pdb
+c:\users\piro\documents\visual studio 2012\Projects\Practica14\Practica14\obj\Debug\Practica14.exe
+c:\users\piro\documents\visual studio 2012\Projects\Practica14\Practica14\obj\Debug\Practica14.pdb

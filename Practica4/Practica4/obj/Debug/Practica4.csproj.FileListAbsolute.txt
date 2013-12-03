@@ -1,0 +1,8 @@
+c:\users\piro\documents\visual studio 2012\Projects\Practica4\Practica4\bin\Debug\Practica4.exe.config
+c:\users\piro\documents\visual studio 2012\Projects\Practica4\Practica4\bin\Debug\Practica4.exe
+c:\users\piro\documents\visual studio 2012\Projects\Practica4\Practica4\bin\Debug\Practica4.pdb
+c:\users\piro\documents\visual studio 2012\Projects\Practica4\Practica4\obj\Debug\Practica4.Form1.resources
+c:\users\piro\documents\visual studio 2012\Projects\Practica4\Practica4\obj\Debug\Practica4.Properties.Resources.resources
+c:\users\piro\documents\visual studio 2012\Projects\Practica4\Practica4\obj\Debug\Practica4.csproj.GenerateResource.Cache
+c:\users\piro\documents\visual studio 2012\Projects\Practica4\Practica4\obj\Debug\Practica4.exe
+c:\users\piro\documents\visual studio 2012\Projects\Practica4\Practica4\obj\Debug\Practica4.pdb

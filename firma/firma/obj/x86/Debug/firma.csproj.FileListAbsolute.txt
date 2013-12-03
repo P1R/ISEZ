@@ -1,0 +1,17 @@
+c:\documents and settings\ipn\mis documentos\visual studio 2010\Projects\firma\firma\bin\Debug\firma.exe
+c:\documents and settings\ipn\mis documentos\visual studio 2010\Projects\firma\firma\bin\Debug\firma.pdb
+c:\documents and settings\ipn\mis documentos\visual studio 2010\Projects\firma\firma\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\ipn\mis documentos\visual studio 2010\Projects\firma\firma\obj\x86\Debug\firma.Properties.Resources.resources
+c:\documents and settings\ipn\mis documentos\visual studio 2010\Projects\firma\firma\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\ipn\mis documentos\visual studio 2010\Projects\firma\firma\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\ipn\mis documentos\visual studio 2010\Projects\firma\firma\obj\x86\Debug\firma.exe
+c:\documents and settings\ipn\mis documentos\visual studio 2010\Projects\firma\firma\obj\x86\Debug\firma.pdb
+c:\documents and settings\ipn\mis documentos\visual studio 2010\Projects\firma\firma\obj\x86\Debug\firma.Form1.resources
+C:\Users\piro\Documents\Visual Studio 2012\Projects\firma\firma\obj\x86\Debug\firma.exe
+C:\Users\piro\Documents\Visual Studio 2012\Projects\firma\firma\obj\x86\Debug\firma.pdb
+C:\Users\piro\Documents\Visual Studio 2012\Projects\firma\firma\bin\Debug\firma.exe
+C:\Users\piro\Documents\Visual Studio 2012\Projects\firma\firma\bin\Debug\firma.pdb
+C:\Users\piro\Documents\Visual Studio 2012\Projects\firma\firma\obj\x86\Debug\firma.csprojResolveAssemblyReference.cache
+C:\Users\piro\Documents\Visual Studio 2012\Projects\firma\firma\obj\x86\Debug\firma.Form1.resources
+C:\Users\piro\Documents\Visual Studio 2012\Projects\firma\firma\obj\x86\Debug\firma.Properties.Resources.resources
+C:\Users\piro\Documents\Visual Studio 2012\Projects\firma\firma\obj\x86\Debug\firma.csproj.GenerateResource.Cache

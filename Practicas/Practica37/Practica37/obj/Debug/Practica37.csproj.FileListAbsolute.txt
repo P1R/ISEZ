@@ -7,3 +7,6 @@ C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica37\Practica
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica37\Practica37\obj\Debug\Practica37.exe
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica37\Practica37\obj\Debug\Practica37.pdb
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica37\Practica37\obj\Debug\Practica37.OpMatrices.resources
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica37\Practica37\bin\Debug\Practica37.exe.config
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica37\Practica37\obj\Debug\Practica37.exe
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica37\Practica37\obj\Debug\Practica37.pdb

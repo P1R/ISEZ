@@ -1,0 +1,9 @@
+c:\users\piro\documents\visual studio 2012\Projects\practica7-tablaperiodica\practica7-tablaperiodica\bin\Debug\practica7-tablaperiodica.exe.config
+c:\users\piro\documents\visual studio 2012\Projects\practica7-tablaperiodica\practica7-tablaperiodica\obj\Debug\practica7-tablaperiodica.csprojResolveAssemblyReference.cache
+c:\users\piro\documents\visual studio 2012\Projects\practica7-tablaperiodica\practica7-tablaperiodica\obj\Debug\practica7_tablaperiodica.Form1.resources
+c:\users\piro\documents\visual studio 2012\Projects\practica7-tablaperiodica\practica7-tablaperiodica\obj\Debug\practica7_tablaperiodica.Properties.Resources.resources
+c:\users\piro\documents\visual studio 2012\Projects\practica7-tablaperiodica\practica7-tablaperiodica\obj\Debug\practica7-tablaperiodica.csproj.GenerateResource.Cache
+c:\users\piro\documents\visual studio 2012\Projects\practica7-tablaperiodica\practica7-tablaperiodica\bin\Debug\practica7-tablaperiodica.exe
+c:\users\piro\documents\visual studio 2012\Projects\practica7-tablaperiodica\practica7-tablaperiodica\bin\Debug\practica7-tablaperiodica.pdb
+c:\users\piro\documents\visual studio 2012\Projects\practica7-tablaperiodica\practica7-tablaperiodica\obj\Debug\practica7-tablaperiodica.exe
+c:\users\piro\documents\visual studio 2012\Projects\practica7-tablaperiodica\practica7-tablaperiodica\obj\Debug\practica7-tablaperiodica.pdb

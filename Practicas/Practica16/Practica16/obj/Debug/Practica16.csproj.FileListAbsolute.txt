@@ -7,3 +7,14 @@ C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica16\Practica
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica16\Practica16\obj\Debug\Practica16.csproj.GenerateResource.Cache
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica16\Practica16\obj\Debug\Practica16.exe
 C:\Users\joral2811\Desktop\Ingeniaria del Software\Practicas\Practica16\Practica16\obj\Debug\Practica16.pdb
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica16\Practica16\bin\Debug\Practica16.exe.config
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica16\Practica16\obj\Debug\Practica16.exe
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica16\Practica16\obj\Debug\Practica16.pdb
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica16\Practica16\bin\Debug\Practica16.exe
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica16\Practica16\bin\Debug\Practica16.pdb
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica16\Practica16\bin\Debug\Practica16.exe.CodeAnalysisLog.xml
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica16\Practica16\bin\Debug\Practica16.exe.lastcodeanalysissucceeded
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica16\Practica16\obj\Debug\Practica16.csprojResolveAssemblyReference.cache
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica16\Practica16\obj\Debug\Practica16.Temporizador.resources
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica16\Practica16\obj\Debug\Practica16.Properties.Resources.resources
+C:\Users\piro\Documents\GitHub\ISEZ\Practicas\Practica16\Practica16\obj\Debug\Practica16.csproj.GenerateResource.Cache

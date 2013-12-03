@@ -1,0 +1,20 @@
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\bin\Debug\Practica-2-10-13.exe.config
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\obj\Debug\Practica-2-10-13.csprojResolveAssemblyReference.cache
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\obj\Debug\Interop.ShockwaveFlashObjects.dll
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\obj\Debug\Practica-2-10-13.csproj.ResolveComReference.cache
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\obj\Debug\Practica_2_10_13.Form1.resources
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\obj\Debug\Practica_2_10_13.Properties.Resources.resources
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\obj\Debug\Practica-2-10-13.csproj.GenerateResource.Cache
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\bin\Debug\Practica-2-10-13.exe
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\bin\Debug\Practica-2-10-13.pdb
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\bin\Debug\Interop.ShockwaveFlashObjects.dll
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\obj\Debug\Practica-2-10-13.exe
+c:\users\piro\documents\visual studio 2012\Projects\Practica-2-10-13\Practica-2-10-13\obj\Debug\Practica-2-10-13.pdb
+C:\Users\piro\Documents\GitHub\ISEZ\Practica-2-10-13\Practica-2-10-13\bin\Debug\Practica-2-10-13.exe.config
+C:\Users\piro\Documents\GitHub\ISEZ\Practica-2-10-13\Practica-2-10-13\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\piro\Documents\GitHub\ISEZ\Practica-2-10-13\Practica-2-10-13\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\piro\Documents\GitHub\ISEZ\Practica-2-10-13\Practica-2-10-13\obj\Debug\Practica-2-10-13.csproj.ResolveComReference.cache
+C:\Users\piro\Documents\GitHub\ISEZ\Practica-2-10-13\Practica-2-10-13\obj\Debug\Practica-2-10-13.exe
+C:\Users\piro\Documents\GitHub\ISEZ\Practica-2-10-13\Practica-2-10-13\obj\Debug\Practica-2-10-13.pdb
